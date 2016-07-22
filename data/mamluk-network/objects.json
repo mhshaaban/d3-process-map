@@ -5,31 +5,31 @@
         "depends" : []
     }, {
         "name"    : "Tūrān Shāh",
-        "type"    : "Ayyūbids",
+        "type"    : "Ayyūbid",
         "depends" : [
             "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         ]
     }, {
         "name"    : "Shajarat al-Durr",
-        "type"    : "Ayyūbids",
+        "type"    : "Ayyūbid",
         "depends" : [
             "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         ]    
     }, {
         "name"    : "al-Muʿizz Aybak",
-        "type"    : "Baḥriyya/Ṣāliḥiyya Mamluks",
+        "type"    : "Baḥriyya/Ṣāliḥiyya Mamluk",
         "depends" : [
             "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
         ]
     }, {
         "name"    : "al-Ẓāhir Baybars",
-        "type"    : "Baḥriyya/Ṣāliḥiyya Mamluks",
+        "type"    : "Baḥriyya/Ṣāliḥiyya Mamluk",
         "depends" : [
             "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         ]
     }, {
         "name"    : "al-Manṣūr Qalāwūn",
-        "type"    : "Baḥriyya/Ṣāliḥiyya Mamluks",
+        "type"    : "Baḥriyya/Ṣāliḥiyya Mamluk",
         "depends" : [
             "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         ]   
