@@ -12,12 +12,6 @@
               "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
           ]    
      }, {
-         "name"    : "al-Muʿizz Aybak",
-         "type"    : "group1",
-         "depends" : [
-              "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
-          ]
-     }, {
          "name"    : "al-Ẓāhir Baybars",
          "type"    : "group1",
          "depends" : [
@@ -34,5 +28,12 @@
           "name"    : "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
           "type"    : "group0",
           "depends" : []
+     },{
+         "name"    : "al-Muʿizz Aybak",
+         "type"    : "group1",
+         "depends" : [
+              "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+              "Shajarat al-Durr"
+          ]
      }
 ]
