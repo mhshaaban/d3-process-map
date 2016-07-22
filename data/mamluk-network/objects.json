@@ -19,7 +19,8 @@
         "name"    : "al-Muʿizz Aybak",
         "type"    : "Baḥriyya/Ṣāliḥiyya Mamluk",
         "depends" : [
-            "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+            "Shajarat al-Durr"
         ]
     }, {
         "name"    : "al-Ẓāhir Baybars",
