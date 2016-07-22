@@ -21,12 +21,12 @@
     },
     "types" : {
         "group0" : {
-            "short" : "Ayyūbid",
-            "long"  : "Ayyūbid"
+            "short" : "Group 0",
+            "long"  : "Group 0 long name for docs"
         },
         "group1" : {
-            "short" : "Baḥriyya/Ṣāliḥiyya Mamluk",
-            "long"  : "Baḥriyya/Ṣāliḥiyya Mamluk",
+            "short" : "Group 1",
+            "long"  : "Group 1 long name for docs"
         },
         "group2" : {
             "short" : "Group 2",
