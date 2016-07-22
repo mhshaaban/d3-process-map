@@ -2,7 +2,9 @@
     {
         "name"    : "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         "type"    : "Ayyūbid",
-        "depends" : []
+        "depends" : [
+            "Shajarat al-Durr"    
+        ]
     }, {
         "name"    : "Tūrān Shāh",
         "type"    : "Ayyūbid",
