@@ -7,13 +7,13 @@
         "name"    : "Tūrān Shāh",
         "type"    : "Ayyūbid",
         "depends" : [
-            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
         ]
     }, {
         "name"    : "Shajarat al-Durr",
         "type"    : "Ayyūbid",
         "depends" : [
-            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
         ]    
     }, {
         "name"    : "al-Muʿizz Aybak",
@@ -25,13 +25,13 @@
         "name"    : "al-Ẓāhir Baybars",
         "type"    : "Baḥriyya/Ṣāliḥiyya Mamluk",
         "depends" : [
-            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
         ]
     }, {
         "name"    : "al-Manṣūr Qalāwūn",
         "type"    : "Baḥriyya/Ṣāliḥiyya Mamluk",
         "depends" : [
-            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
         ]   
     }
 ]    
