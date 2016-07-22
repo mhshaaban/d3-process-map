@@ -6,18 +6,26 @@
      }, {
          "name"    : "Tūrān Shāh",
          "type"    : "group0",
-         "depends" : [al-Ṣāliḥ Nejm al-Dīn Ayyūb]
+         "depends" : [
+              "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
+          ]
      }, {
          "name"    : "Shajarat al-Durr",
          "type"    : "group0",
-         "depends" : [al-Ṣāliḥ Nejm al-Dīn Ayyūb]    
+         "depends" : [
+              "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
+          ]    
      }, {
          "name"    : "al-Ẓāhir Baybars",
          "type"    : "group1",
-         "depends" : [al-Ṣāliḥ Nejm al-Dīn Ayyūb]
+         "depends" : [
+              "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
+     ]
      }, {
          "name"    : "al-Manṣūr Qalāwūn",
          "type"    : "group1",
-         "depends" : [al-Ṣāliḥ Nejm al-Dīn Ayyūb]   
+         "depends" : [
+              "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
+          ]   
      }
  ]  
