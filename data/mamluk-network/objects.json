@@ -1,9 +1,5 @@
 [
      {
-          "name"    : "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
-          "type"    : "group0",
-          "depends" : []
-     }, {
          "name"    : "Tūrān Shāh",
          "type"    : "group0",
          "depends" : [
@@ -27,5 +23,8 @@
          "depends" : [
               "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
           ]   
-     }
+     },{
+          "name"    : "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+          "type"    : "group0",
+          "depends" : []
  ]  
