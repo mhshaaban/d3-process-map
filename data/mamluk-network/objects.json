@@ -1,11 +1,21 @@
 [
      {
-         "name"    : "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
-         "type"    : "group0",
-         "depends" : [
-             "al-Ẓāhir Baybars",
-             "al-Manṣūr Qalāwūn"
+          "name"    : "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+          "type"    : "group0",
+          "depends" : [
+               "Tūrān Shāh",
+               "shajarat al-Durr",
+               "al-Ẓāhir Baybars",
+               "al-Manṣūr Qalāwūn"
          ]
+     }, {
+         "name"    : "Tūrān Shāh",
+         "type"    : "group0",
+         "depends" : []
+     }, {
+         "name"    : "Shajarat al-Durr",
+         "type"    : "group0",
+         "depends" : []    
      }, {
          "name"    : "al-Ẓāhir Baybars",
          "type"    : "group1",
