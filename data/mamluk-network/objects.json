@@ -2,33 +2,36 @@
     {
         "name"    : "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         "type"    : "Ayyūbid",
+        "depends" : []
+    }, {
+        "name"    : "Tūrān Shāh",
+        "type"    : "Ayyūbids",
         "depends" : [
-            "Shajarat al-Durr",
-            "Tūrān Shāh",
-            "al-Muʿizz Aybak",
-            "al-Ẓāhir Baybars",
-            "al-Manṣūr Qalāwūn"
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         ]
+    }, {
+        "name"    : "Shajarat al-Durr",
+        "type"    : "Ayyūbids",
+        "depends" : [
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+        ]    
     }, {
         "name"    : "al-Muʿizz Aybak",
         "type"    : "Baḥriyya/Ṣāliḥiyya Mamluks",
         "depends" : [
-            "Quṭuz"
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
         ]
     }, {
         "name"    : "al-Ẓāhir Baybars",
         "type"    : "Baḥriyya/Ṣāliḥiyya Mamluks",
         "depends" : [
-            "al-Saʿīd Baraka Khān",
-            "al-ʿĀdil Salāmish",
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         ]
     }, {
         "name"    : "al-Manṣūr Qalāwūn",
         "type"    : "Baḥriyya/Ṣāliḥiyya Mamluks",
         "depends" : [
-            "al-Ṣāliḥ ʿAlī",
-            "al-Ashraf Khalīl",
-            "al-Nāṣir Muḥammad",
+            "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
         ]   
     }
 ]    
