@@ -112,5 +112,41 @@
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
+     },{
+         "name"    : "Ḥusayn",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"    : "al-Manṣūr Muḥammad",
+         "type"    : "group5",
+         "depends" : [
+              "al-Muẓaffar Ḥājjī"
+          ]
+     },{
+         "name"    : "al-Ashraf Shaʿbān",
+         "type"    : "group6",
+         "depends" : [
+              "Ḥusayn"
+          ]
+     },{
+         "name"    : "al-Manṣūr ʿAlī",
+         "type"    : "group7",
+         "depends" : [
+              "al-Ashraf Shaʿbān"
+          ]
+     },{
+         "name"    : "al-Ṣāliḥ Ḥājjī",
+         "type"    : "group7",
+         "depends" : [
+              "al-Ashraf Shaʿbān"
+          ]
+     },{
+         "name"    : "al-Ẓāhir Barqūq",
+         "type"    : "group8",
+         "depends" : [
+              "al-Ashraf Shaʿbān"
+          ]
      }
 ]
