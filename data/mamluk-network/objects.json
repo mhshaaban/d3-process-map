@@ -35,13 +35,31 @@
               "Shajarat al-Durr"
           ]
      },{
-         "name"    : "al-Ashraf Khalīl",
-         "type"    : "group2",
+         "name"    : "al-ʿĀdil Kitbughā",
+         "type"    : "group3",
+         "depends" : [
+              "al-Manṣūr Qalāwūn"
+          ]
+     },{
+         "name"    : "al-Manṣūr Lājīn",
+         "type"    : "group3",
+         "depends" : [
+              "al-Manṣūr Qalāwūn"
+          ]
+     },{
+         "name"    : "al-Muẓaffar Baybars al-Jāshankīr",
+         "type"    : "group3",
          "depends" : [
               "al-Manṣūr Qalāwūn"
           ]
      },{
          "name"    : "al-Nāṣir Muḥammad",
+         "type"    : "group2",
+         "depends" : [
+              "al-Manṣūr Qalāwūn"
+          ]
+     },{
+         "name"    : "al-Ashraf Khalīl",
          "type"    : "group2",
          "depends" : [
               "al-Manṣūr Qalāwūn"
