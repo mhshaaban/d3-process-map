@@ -11,7 +11,14 @@
          "depends" : [
               "al-Ṣāliḥ Nejm al-Dīn Ayyūb"
           ]    
-     }, {
+     },{
+         "name"    : "al-Muʿizz Aybak",
+         "type"    : "group1",
+         "depends" : [
+              "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
+              "Shajarat al-Durr"
+          ]
+     },{
          "name"    : "al-Ẓāhir Baybars",
          "type"    : "group1",
          "depends" : [
@@ -28,41 +35,82 @@
           "type"    : "group0",
           "depends" : []
      },{
-         "name"    : "al-Muʿizz Aybak",
-         "type"    : "group1",
-         "depends" : [
-              "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
-              "Shajarat al-Durr"
-          ]
-     },{
          "name"    : "al-ʿĀdil Kitbughā",
-         "type"    : "group3",
+         "type"    : "group2",
          "depends" : [
               "al-Manṣūr Qalāwūn"
           ]
      },{
          "name"    : "al-Manṣūr Lājīn",
-         "type"    : "group3",
+         "type"    : "group2",
          "depends" : [
               "al-Manṣūr Qalāwūn"
           ]
      },{
          "name"    : "al-Muẓaffar Baybars al-Jāshankīr",
-         "type"    : "group3",
-         "depends" : [
-              "al-Manṣūr Qalāwūn"
-          ]
-     },{
-         "name"    : "al-Nāṣir Muḥammad",
          "type"    : "group2",
          "depends" : [
               "al-Manṣūr Qalāwūn"
           ]
      },{
          "name"    : "al-Ashraf Khalīl",
-         "type"    : "group2",
+         "type"    : "group3",
          "depends" : [
               "al-Manṣūr Qalāwūn"
+          ]
+     },{
+         "name"    : "al-Nāṣir Muḥammad",
+         "type"    : "group3",
+         "depends" : [
+              "al-Manṣūr Qalāwūn"
+          ]
+     },{
+         "name"    : "al-Manṣūr Abū Bakr",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"    : "al-Ashraf Kujuk",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"    : "al-Nāṣir Aḥmad",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"    : "al-Ṣāliḥ Ismāʿīl",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"    : "al-Kāmil Shaʿbān",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"    : "al-Muẓaffar Ḥājjī",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"    : "al-Nāṣir Ḥasan",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"    : "al-Ṣāliḥ Ṣāliḥ",
+         "type"    : "group4",
+         "depends" : [
+              "al-Nāṣir Muḥammad"
           ]
      }
 ]
