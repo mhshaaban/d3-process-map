@@ -25,16 +25,16 @@
             "long"  : "Ayyūbid"
         },
         "group1" : {
-            "short" : "Baḥriyya/Ṣāliḥiyya Mamluk",
-            "long"  : "Baḥriyya/Ṣāliḥiyya Mamluk"
+            "short" : "Baḥriyya/Ṣāliḥiyya Masmluk",
+            "long"  : "Baḥriyya/Ṣāliḥiyya Masmluk"
         },
         "group2" : {
-            "short" : "Group 2",
-            "long"  : "Group 2 long name for docs"
+            "short" : "Manṣūriyya Mamluks",
+            "long"  : "Manṣūriyya Mamluks"
         },
         "group3" : {
-            "short" : "Group 3",
-            "long"  : "Group 3 long name for docs"
+            "short" : "Qalāwūnids",
+            "long"  : "Qalāwūnids"
         },
         "group4" : {
             "short" : "Group 4",
