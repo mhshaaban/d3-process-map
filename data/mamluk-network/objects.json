@@ -34,5 +34,17 @@
               "al-Ṣāliḥ Nejm al-Dīn Ayyūb",
               "Shajarat al-Durr"
           ]
+     },{
+         "name"    : "al-Ashraf Khalīl",
+         "type"    : "group2",
+         "depends" : [
+              "al-Manṣūr Qalāwūn"
+          ]
+     },{
+         "name"    : "al-Nāṣir Muḥammad",
+         "type"    : "group2",
+         "depends" : [
+              "al-Manṣūr Qalāwūn"
+          ]
      }
 ]
