@@ -66,85 +66,84 @@
           ]
      },{
          "name"    : "al-Manṣūr Abū Bakr",
-         "type"    : "group4",
+         "type"    : "group3",
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "al-Ashraf Kujuk",
-         "type"    : "group4",
+         "type"    : "group3",
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "al-Nāṣir Aḥmad",
-         "type"    : "group4",
+         "type"    : "group3",
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "al-Ṣāliḥ Ismāʿīl",
-         "type"    : "group4",
+         "type"    : "group3",
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "al-Kāmil Shaʿbān",
-         "type"    : "group4",
-         "depends" : [
+         "type"    : "group3",
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "al-Muẓaffar Ḥājjī",
-         "type"    : "group4",
+         "type"    : "group3",
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "al-Nāṣir Ḥasan",
-         "type"    : "group4",
+         "type"    : "group3",
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "al-Ṣāliḥ Ṣāliḥ",
-         "type"    : "group4",
+         "type"    : "group3",
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "Ḥusayn",
-         "type"    : "group4",
+         "type"    : "group3",
          "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
          "name"    : "al-Manṣūr Muḥammad",
-         "type"    : "group5",
+         "type"    : "group3",
          "depends" : [
               "al-Muẓaffar Ḥājjī"
           ]
      },{
          "name"    : "al-Ashraf Shaʿbān",
-         "type"    : "group6",
+         "type"    : "group3",
          "depends" : [
               "Ḥusayn"
           ]
      },{
          "name"    : "al-Manṣūr ʿAlī",
-         "type"    : "group7",
+         "type"    : "group3",
          "depends" : [
               "al-Ashraf Shaʿbān"
           ]
      },{
          "name"    : "al-Ṣāliḥ Ḥājjī",
-         "type"    : "group7",
+         "type"    : "group3",
          "depends" : [
               "al-Ashraf Shaʿbān"
           ]
      },{
          "name"    : "al-Ẓāhir Barqūq",
-         "type"    : "group8",
+         "type"    : "group4",
          "depends" : [
               "al-Ashraf Shaʿbān"
           ]
