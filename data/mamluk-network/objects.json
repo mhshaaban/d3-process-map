@@ -91,6 +91,7 @@
      },{
          "name"    : "al-Kāmil Shaʿbān",
          "type"    : "group3",
+         "depends" : [
               "al-Nāṣir Muḥammad"
           ]
      },{
