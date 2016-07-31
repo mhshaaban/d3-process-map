@@ -1,37 +1,48 @@
 [
      {  
-         "name"     : "Qalāwūn",
+         "name"     : "aẓ-Ẓāhir Baybars",
          "type"     : "Group0",
          "depends"  : []
      },{  
-         "name"     : "Umm al-Ṣāliḥ",
+         "name"     : "al-Malik al-Saʿīd Berke Khān",
+         "type"     : "Group0",
+         "depends"  : [
+               "aẓ-Ẓāhir Baybars",
+               "Khātūn"
+          ]
+     },{  
+         "name"     : "Qalāwūn",
          "type"     : "Group1",
+         "depends"  : []
+     },{  
+         "name"     : "Umm al-Ṣāliḥ",
+         "type"     : "Group2",
          "depends"  : [
                "Qalāwūn"    
           ]
      },{  
          "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "Qalāwūn",
                "Umm al-Ṣāliḥ"
           ]
      },{  
          "name"     : "Khātūn",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "Qalāwūn",
                "Umm al-Ṣāliḥ"
           ]
      },{  
          "name"     : "Mankabak bint Nughāy",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Ṣāliḥ ʿAlī"   
           ]
      },{  
          "name"     : "Muẓaffar al-dīn Mūsá",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Ṣāliḥ ʿAlī",
                "Mankabak bint Nughāy"
