@@ -2,7 +2,9 @@
      {  
          "name"     : "Qalāwūn",
          "type"     : "group0",
-         "depends"  : []
+         "depends"  : [
+              "Qalāwūn"     
+          ]
      },{  
          "name"     : "Umm Ṣāliḥ",
          "type"     : "group0",
