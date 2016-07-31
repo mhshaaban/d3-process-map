@@ -3,5 +3,11 @@
          "name"     : "Qalāwūn",
          "type"     : "Group0",
          "depends"  : []
+     },{  
+         "name"     : "Umm al-Ṣāliḥ",
+         "type"     : "Group0",
+         "depends"  : [
+               "Qalāwūn"    
+          ]
      }
 ]
