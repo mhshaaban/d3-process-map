@@ -57,15 +57,7 @@
          "name"     : "al-Malik al-Ashraf Khalīl",
          "type"     : "Group3",
          "depends"  : [
-               "Qalāwūn",
-               "Zawjat Qalāwūn 1"
-          ] 
-     },{
-         "name"     : "Ardūkīn bint Nughāy",
-         "type"     : "Group3",
-         "depends"  : [
-               "al-Malik al-Ashraf Khalīl",
-               "al-Nāṣir Muḥammad"
+               "Qalāwūn"
           ] 
      },{
          "name"     : "Daughter 1",
@@ -94,5 +86,12 @@
                "Qalāwūn",
                "Ashlūn bint Shaktāy"
           ]
+     },{
+         "name"     : "Ardūkīn bint Nughāy",
+         "type"     : "Group3",
+         "depends"  : [
+               "al-Malik al-Ashraf Khalīl",
+               "al-Nāṣir Muḥammad"
+          ] 
      }        
 ]
