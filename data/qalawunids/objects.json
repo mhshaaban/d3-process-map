@@ -113,5 +113,38 @@
                "al-Nāṣir Muḥammad",
                "Ardūkīn bint Nughāy"
           ]
-     }            
+     },{
+         "name"     : "Ṭulunbāybint Ṭughāy",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"     : "Ṭughāy",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"     : "Ānūk",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad",
+               "Ṭughāy"
+          ]
+     },{
+         "name"     : "Daughter of Baktamur al-Sāqī",
+         "type"     : "Group4",
+         "depends"  : [
+               "Ānūk",
+               "Baktamur al-Sāqī"
+          ]
+     },{
+         "name"     : "Baktamur al-Sāqī",
+         "type"     : "Group4",
+         "depends"  : [
+               "Daughter of Baktamur al-Sāqī",
+               "al-Nāṣir Muḥammad"
+          ]
+     }                              
 ]
