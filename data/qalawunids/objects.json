@@ -9,5 +9,33 @@
          "depends"  : [
                "Qalāwūn"    
           ]
+     },{  
+         "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
+         "type"     : "Group1",
+         "depends"  : [
+               "Qalāwūn",
+               "Umm al-Ṣāliḥ"
+          ]
+     },{  
+         "name"     : "Khātūn",
+         "type"     : "Group1",
+         "depends"  : [
+               "Qalāwūn",
+               "Umm al-Ṣāliḥ"
+          ]
+     },{  
+         "name"     : "Mankabak bint Nughāy",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Ṣāliḥ ʿAlī"   
+          ]
+     },{  
+         "name"     : "Muẓaffar al-dīn Mūsá",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Ṣāliḥ ʿAlī",
+               "Mankabak bint Nughāy"
+          ]
      }
+     
 ]
