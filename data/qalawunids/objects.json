@@ -1,0 +1,67 @@
+[
+     {
+         "name"    : "al-Ṣāliḥ ʿAlī",
+         "type"    : "group1",
+         "depends" : [
+              "Qalāwūn",
+              "Umm al-Ṣāliḥ"
+          ]    
+     },{
+         "name"    : "Mankabak bint Nughāy",
+         "type"    : "group1",
+         "depends" : [
+              "al-Ṣāliḥ ʿAlī"
+          ]    
+     },{
+         "name"    : "Muẓaffar al-dīn Mūsá",
+         "type"    : "group1",
+         "depends" : [
+              "al-Ṣāliḥ ʿAlī",
+              "Mankabak bint Nughāy"
+          ]    
+     },{
+         "name"    : "Khātūn",
+         "type"    : "group1",
+         "depends" : [
+              "Qalāwūn",
+              "Umm al-Ṣāliḥ"
+          ]    
+     },{
+         "name"    : "al-Malik al-Ashraf Khalīl",
+         "type"    : "group1",
+         "depends" : [
+              "Qalāwūn",
+              "Zawjat Qalāwūn 1"
+          ]
+     },{
+         "name"     : "Ardūkīn bint Nughāy",
+         "type"     : "group1",
+         "depends"  : [
+              "al-Malik al-Ashraf Khalīl"
+          ]
+     },{
+         "name"     : "Daughter 1",
+         "type"     : "group1",
+         "depends"  : [
+              "al-Malik al-Ashraf Khalīl",
+              ""Ardūkīn bint Nughāy"
+          ]
+     },{
+         "name"     : "Daughter 2",
+         "type"     : "group1",
+         "depends"  : [
+              "al-Malik al-Ashraf Khalīl",
+              ""Ardūkīn bint Nughāy"
+          ]
+     },{  
+         "name"     : "Qalāwūn",
+         "type"     : "group0",
+         "depends"  : []
+     },{  
+         "name"     : "Umm Ṣāliḥ",
+         "type"     : "group0",
+         "depends"  : [
+              "Qalāwūn"
+         ]   
+      }   
+]
