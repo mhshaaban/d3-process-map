@@ -4,12 +4,6 @@
          "type"     : "Group0",
          "depends"  : []
      },{  
-         "name"     : "Umm al-Ṣāliḥ",
-         "type"     : "Group0",
-         "depends"  : [
-               "Qalāwūn"    
-          ]
-     },{  
          "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
          "type"     : "Group1",
          "depends"  : [
@@ -22,6 +16,12 @@
          "depends"  : [
                "Qalāwūn",
                "Umm al-Ṣāliḥ"
+          ]
+     },{  
+         "name"     : "Umm al-Ṣāliḥ",
+         "type"     : "Group0",
+         "depends"  : [
+               "Qalāwūn"    
           ]
      },{  
          "name"     : "Mankabak bint Nughāy",
