@@ -19,7 +19,7 @@
          "name"     : "Khātūn",
          "type"     : "Group1",
          "depends"  : [
-               "Qalāwūn",
+               "Qalāwūn"
           ]
      },{  
          "name"     : "Mankabak bint Nughāy",
