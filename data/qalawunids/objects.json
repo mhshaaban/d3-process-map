@@ -60,6 +60,13 @@
                "Qalāwūn"
           ] 
      },{
+         "name"     : "Ardūkīn bint Nughāy",
+         "type"     : "Group3",
+         "depends"  : [
+               "al-Malik al-Ashraf Khalīl",
+               "al-Nāṣir Muḥammad"
+          ] 
+     },{
          "name"     : "Daughter 1",
          "type"     : "Group3",
          "depends"  : [
@@ -86,12 +93,5 @@
                "Qalāwūn",
                "Ashlūn bint Shaktāy"
           ]
-     },{
-         "name"     : "Ardūkīn bint Nughāy",
-         "type"     : "Group3",
-         "depends"  : [
-               "al-Malik al-Ashraf Khalīl",
-               "al-Nāṣir Muḥammad"
-          ] 
-     }        
+     }   
 ]
