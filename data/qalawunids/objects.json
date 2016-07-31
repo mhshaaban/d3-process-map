@@ -47,6 +47,52 @@
                "al-Malik al-Ṣāliḥ ʿAlī",
                "Mankabak bint Nughāy"
           ]
-     }
-     
+     },{
+         "name"     : "Zawjat Qalāwũn 1",
+         "type"     : "Group3",
+         "depends"  : [
+               "Qalāwūn"
+          ] 
+     },{
+         "name"     : "al-Malik al-Ashraf Khalīl",
+         "type"     : "Group3",
+         "depends"  : [
+               "Qalāwūn",
+               "Zawjat Qalāwūn 1"
+          ] 
+     },{
+         "name"     : "Ardūkīn bint Nughāy",
+         "type"     : "Group3",
+         "depends"  : [
+               "al-Malik al-Ashraf Khalīl",
+               "al-Nāṣir Muḥammad"
+          ] 
+     },{
+         "name"     : "Daughter 1",
+         "type"     : "Group3",
+         "depends"  : [
+               "al-Malik al-Ashraf Khalīl",
+               "Ardūkīn bint Nughāy"
+          ] 
+     },{
+         "name"     : "Daughter 2",
+         "type"     : "Group3",
+         "depends"  : [
+               "al-Malik al-Ashraf Khalīl",
+               "Ardūkīn bint Nughāy"
+          ] 
+     },{
+         "name"     : "Ashlūn bint Shaktāy",
+         "type"     : "Group4",
+         "depends"  : [
+               "Qalāwūn"
+          ] 
+     },{
+         "name"     : "al-Nāṣir Muḥammad",
+         "type"     : "Group4",
+         "depends"  : [
+               "Qalāwūn",
+               "Ashlūn bint Shaktāy"
+          ]
+     }        
 ]
