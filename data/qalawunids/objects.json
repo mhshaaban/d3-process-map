@@ -63,5 +63,11 @@
          "depends"  : [
               "Qalāwūn"
          ]   
-      }   
+     },{  
+         "name"     : "Zawjat Qalāwūn 1",
+         "type"     : "group0",
+         "depends"  : [
+              "Qalāwūn"
+         ]   
+      }     
 ]
