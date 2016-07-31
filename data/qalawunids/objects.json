@@ -6,6 +6,13 @@
               "Qalāwūn",
               "Umm al-Ṣāliḥ"
           ]
+     },{
+         "name"    : "Khātūn",
+         "type"    : "group1",
+         "depends" : [
+              "Qalāwūn",
+              "Umm al-Ṣāliḥ"
+          ]    
      },{  
          "name"     : "Umm Ṣāliḥ",
          "type"     : "group0",
@@ -16,12 +23,5 @@
          "name"     : "Qalāwūn",
          "type"     : "group0",
          "depends"  : []
-     },{
-         "name"    : "Khātūn",
-         "type"    : "group1",
-         "depends" : [
-              "Qalāwūn",
-              "Umm al-Ṣāliḥ"
-          ]    
-     } 
+     }
 ]
