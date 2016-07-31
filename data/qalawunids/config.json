@@ -71,7 +71,7 @@
             "type"   : "position",
             "x"      : 0.2,
             "y"      : 0.2,
-            "weight" : 0.7
+            "weight" : 1.5
         }, {
             "has"    : { "type" : "group2" },
             "type"   : "position",
