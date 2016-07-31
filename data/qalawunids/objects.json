@@ -146,48 +146,6 @@
                "Daughter of Baktamur al-Sāqī",
                "al-Nāṣir Muḥammad"
           ]
-     },{
-         "name"     : "Zawjat al-Nāṣir Muḥammad",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Qawṣūn"
-          ]
-     },{
-         "name"     : "Qawṣūn",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Zawjat al-Nāṣir Muḥammad"
-          ]
-     },{
-         "name"     : "Quṭlūmalik",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Tankiz al-Ḥusāmī"
-          ]
-     },{
-         "name"     : "Tankiz al-Ḥusāmī",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Quṭlūmalik"
-          ]
-     },{
-         "name"     : "Tankiz al-Ḥusāmī",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Quṭlūmalik"
-          ]
-     },{
-         "name"     : "al-Malik al-Ṣāliḥ Ṣāliḥ",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Quṭlūmalik"
-          ]
-     }  
-     
+     }
+ 
 ]
