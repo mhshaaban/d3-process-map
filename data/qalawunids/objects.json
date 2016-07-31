@@ -1,5 +1,21 @@
 [
-     {
+     {  
+         "name"     : "Qalāwūn",
+         "type"     : "group0",
+         "depends"  : []
+     },{  
+         "name"     : "Umm Ṣāliḥ",
+         "type"     : "group0",
+         "depends"  : [
+              "Qalāwūn"
+         ]   
+     },{  
+         "name"     : "Zawjat Qalāwūn 1",
+         "type"     : "group0",
+         "depends"  : [
+              "Qalāwūn"
+         ]   
+      },{
          "name"    : "al-Ṣāliḥ ʿAlī",
          "type"    : "group1",
          "depends" : [
@@ -53,21 +69,5 @@
               "al-Malik al-Ashraf Khalīl",
               "Ardūkīn bint Nughāy"
           ]
-     },{  
-         "name"     : "Qalāwūn",
-         "type"     : "group0",
-         "depends"  : []
-     },{  
-         "name"     : "Umm Ṣāliḥ",
-         "type"     : "group0",
-         "depends"  : [
-              "Qalāwūn"
-         ]   
-     },{  
-         "name"     : "Zawjat Qalāwūn 1",
-         "type"     : "group0",
-         "depends"  : [
-              "Qalāwūn"
-         ]   
-      }     
+     } 
 ]
