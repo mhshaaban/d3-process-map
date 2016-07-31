@@ -92,5 +92,26 @@
                "Qalāwūn",
                "Ashlūn bint Shaktāy"
           ]
-     }   
+     },{
+         "name"     : "al-Malik al-Manṣūr ʿAlī",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad",
+               "Ardūkīn bint Nughāy"
+          ]
+     },{
+         "name"     : "al-Malik al-Muẓaffar",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad",
+               "Ardūkīn bint Nughāy"
+          ]
+     },{
+         "name"     : "Son",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad",
+               "Ardūkīn bint Nughāy"
+          ]
+     }            
 ]
