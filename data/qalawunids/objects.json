@@ -1,5 +1,15 @@
 [
      {
+         "name"     : "Umm Ṣāliḥ",
+         "type"     : "group0",
+         "depends"  : [
+              "Qalāwūn"
+         ]   
+     },{  
+         "name"     : "Qalāwūn",
+         "type"     : "group0",
+         "depends"  : []
+     },{
          "name"    : "al-Ṣāliḥ ʿAlī",
          "type"    : "group1",
          "depends" : [
@@ -13,15 +23,5 @@
               "Qalāwūn",
               "Umm al-Ṣāliḥ"
           ]    
-     },{  
-         "name"     : "Umm Ṣāliḥ",
-         "type"     : "group0",
-         "depends"  : [
-              "Qalāwūn"
-         ]   
-     },{
-         "name"     : "Qalāwūn",
-         "type"     : "group0",
-         "depends"  : []
      }
 ]
