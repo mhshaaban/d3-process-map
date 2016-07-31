@@ -1,18 +1,18 @@
 [
      {  
          "name"     : "aẓ-Ẓāhir Baybars",
-         "type"     : "Group0",
+         "type"     : "Group1",
          "depends"  : []
      },{  
          "name"     : "al-Malik al-Saʿīd Berke Khān",
-         "type"     : "Group0",
+         "type"     : "Group1",
          "depends"  : [
                "aẓ-Ẓāhir Baybars",
                "Khātūn"
           ]
      },{  
          "name"     : "Qalāwūn",
-         "type"     : "Group1",
+         "type"     : "Group0",
          "depends"  : []
      },{  
          "name"     : "Umm al-Ṣāliḥ",
