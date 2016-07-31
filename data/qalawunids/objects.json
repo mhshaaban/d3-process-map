@@ -7,10 +7,6 @@
               "Umm al-Ṣāliḥ"
           ]
      },{  
-         "name"     : "Qalāwūn",
-         "type"     : "group0",
-         "depends"  : []
-     },{  
          "name"     : "Umm Ṣāliḥ",
          "type"     : "group0",
          "depends"  : [
@@ -29,6 +25,10 @@
               "al-Ṣāliḥ ʿAlī"
           ]    
      },{
+         "name"     : "Qalāwūn",
+         "type"     : "group0",
+         "depends"  : []
+     },{    
          "name"    : "Muẓaffar al-dīn Mūsá",
          "type"    : "group1",
          "depends" : [
