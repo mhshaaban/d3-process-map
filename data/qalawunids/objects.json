@@ -666,6 +666,36 @@
                "Aḥmad",
                "Zakariyyā"   
           ]
+     },{  
+         "name"     : "Yaḥyá",
+         "type"     : "Group11",
+         "depends"  : [
+               "Ṭāyirbughā"
+               "Bint Ṭāyirbughā 1",
+               "Bint Ṭāyirbughā 2",
+               "Aḥmad",
+               "Zakariyyā"   
+          ]
+     },{  
+         "name"     : "Aḥmad",
+         "type"     : "Group11",
+         "depends"  : [
+               "Ṭāyirbughā"
+               "Bint Ṭāyirbughā 1",
+               "Bint Ṭāyirbughā 2",
+               "Yaḥyá",
+               "Zakariyyā"   
+          ]
+     }{  
+         "name"     : "Zakariyyā",
+         "type"     : "Group11",
+         "depends"  : [
+               "Ṭāyirbughā"
+               "Bint Ṭāyirbughā 1",
+               "Bint Ṭāyirbughā 2",
+               "Aḥmad",
+               "Yaḥyá"   
+          ]
      },{
          "name"     : "Zawjat Ṭuquzdamur al-Ḥamawī",
          "type"     : "Group12",
