@@ -710,5 +710,11 @@
                "Bint Baktamur al-Sāqī 1",
                "Bint Baktamur al-Sāqī 2"
           ]
+     },{
+         "name"     : "Manklībughā al-Silāḥdār",
+         "type"     : "Group14",
+         "depends"  : [
+               "Ṭulunbāybint Ṭughāy"
+          ]
      }
 ] 
