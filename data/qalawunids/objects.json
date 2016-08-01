@@ -90,13 +90,6 @@
                "al-Malik al-Nāṣir Muḥammad"
           ]
      },{  
-         "name"     : "Ukht Qawṣūn",
-         "type"     : "Group1",
-         "depends"  : [
-               "al-Malik al-Nāṣir Muḥammad",
-               "Qawṣūn"
-          ]
-     },{  
          "name"     : "Quṭlūmalik",
          "type"     : "Group1",
          "depends"  : [
@@ -595,6 +588,13 @@
                "Narjis",
                "Daughter 8"
           ]     
+     },{  
+         "name"     : "Ukht Qawṣūn",
+         "type"     : "Group6",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Qawṣūn"
+          ]
      },{  
          "name"     : "Qawṣūn",
          "type"     : "Group6",
