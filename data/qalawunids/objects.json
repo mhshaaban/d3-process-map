@@ -40,15 +40,13 @@
          "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
          "type"     : "Group1",
          "depends"  : [
-               "Qalāwūn",
-               "Umm al-Ṣāliḥ"
+               "Qalāwūn"
           ]
      },{  
          "name"     : "Khātūn",
          "type"     : "Group1",
          "depends"  : [
-               "Qalāwūn",
-               "Umm al-Ṣāliḥ"
+               "Qalāwūn"
           ]
      },{  
          "name"     : "al-Malik al-Ashraf Khalīl",
