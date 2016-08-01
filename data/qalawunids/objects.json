@@ -93,8 +93,7 @@
          "name"     : "Ukht Qawṣūn",
          "type"     : "Group1",
          "depends"  : [
-               "al-Malik al-Nāṣir Muḥammad",
-               "Qawṣūn"
+               "al-Malik al-Nāṣir Muḥammad"
           ]
      },{  
          "name"     : "Quṭlūmalik",
