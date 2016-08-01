@@ -592,15 +592,14 @@
          "name"     : "Ukht Qawṣūn",
          "type"     : "Group6",
          "depends"  : [
-               "al-Malik al-Nāṣir Muḥammad",
-               "Qawṣūn"
+               "Qawṣūn",
+               "al-Malik al-Nāṣir Muḥammad"
           ]
      },{  
          "name"     : "Qawṣūn",
          "type"     : "Group6",
          "depends"  : [
-               "Daughter 4",
-               "al-Malik al-Nāṣir Muḥammad"
+               "Daughter 4"
           ]
      }
 ]     
