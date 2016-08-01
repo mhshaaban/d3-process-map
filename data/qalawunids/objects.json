@@ -64,5 +64,101 @@
                "Qalāwūn",
                "Ashlūn bint Shaktāy"
           ]
+     },{  
+         "name"     : "Mankabak bint Nughāy",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Ṣāliḥ ʿAlī"
+          ] 
+     },{  
+         "name"     : "al-Malik al-Saʿīd Berke Khān",
+         "type"     : "Group1",
+         "depends"  : [
+               "Khātūn"
+          ]  
+     },{  
+         "name"     : "Ardūkīn bint Nughāy",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Ashraf Khalīl",
+               "al-Malik al-Nāṣir Muḥammad"
+          ] 
+     },{  
+         "name"     : "Ṭulunbāy bint Ṭughāy",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Manklībughā al-Silāḥdār",
+               "Ṣūṣūn",
+               "ʿUmar ibn Arghūn al-Nāṣirī al-Nāʾib"
+          ]
+     },{  
+         "name"     : "Ṭughāy",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Ukht Qawṣūn",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Quṭlūmalik",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Zādū",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]      
+     },{  
+         "name"     : "Bayāḍ",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Narjis",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Zawjat al-Malik al-Nāṣir Muḥammad 1",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Zawjat al-Malik al-Nāṣir Muḥammad 2",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Kudā",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ] 
+     },{  
+         "name"     : "Ardū",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "al-Malik al-Kāmil Shaʿbān"
+               "Āqsunqur al-Nāṣirī"
+          ]
+     },{  
+         "name"     : "Zawjat al-Malik al-Nāsir Muḥammad 3",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
      }     
 ] 
