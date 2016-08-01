@@ -20,18 +20,6 @@
          "depends"  : [
                "Qalāwūn"    
           ]
-     },{
-         "name"     : "Zawjat Qalāwūn 1",
-         "type"     : "Group0",
-         "depends"  : [
-               "Qalāwūn"
-          ] 
-     },{
-         "name"     : "Ashlūn bint Shaktāy",
-         "type"     : "Group0",
-         "depends"  : [
-               "Qalāwūn"
-          ]      
      },{  
          "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
          "type"     : "Group1",
@@ -46,6 +34,12 @@
                "Qalāwūn",
                "Umm al-Ṣāliḥ"
           ]
+     },{
+         "name"     : "Zawjat Qalāwūn 1",
+         "type"     : "Group0",
+         "depends"  : [
+               "Qalāwūn"
+          ] 
      },{  
          "name"     : "al-Malik al-Ashraf Khalīl",
          "type"     : "Group1",
@@ -53,6 +47,12 @@
                "Qalāwūn",
                "Zawjat Qalāwūn 1"
           ] 
+     },{
+         "name"     : "Ashlūn bint Shaktāy",
+         "type"     : "Group0",
+         "depends"  : [
+               "Qalāwūn"
+          ]      
      },{  
          "name"     : "al-Malik al-Nāṣir Muḥammad",
          "type"     : "Group1",
