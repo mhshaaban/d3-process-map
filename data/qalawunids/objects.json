@@ -141,7 +141,9 @@
          "name"     : "Ardū",
          "type"     : "Group1",
          "depends"  : [
-               "al-Malik al-Nāṣir Muḥammad"
+               "al-Malik al-Nāṣir Muḥammad",
+               "Āqsunqur al-Nāṣirī",
+               "al-Malik al-Kāmil Shaʿbān"
           ]
      },{  
          "name"     : "Zawjat al-Malik al-Nāsir Muḥammad 3",
@@ -218,6 +220,13 @@
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Bayāḍ"
+          ]
+     },{  
+         "name"     : "al-Malik al-Manṣūr Abū Bakr",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Narjis"
           ]
      },{  
          "name"     : "Ramaḍān",
@@ -464,8 +473,7 @@
          "name"     : "Ṭūlūbiyya bint ʿAbd Allāh al-Nāṣiriyya",
          "type"     : "Group2",
          "depends"  : [
-               "al-Malik al-Nāṣir Ḥasan",
-               "Yalbughā al-ʿUmarī al-Nāṣirī"
+               "al-Malik al-Nāṣir Ḥasan"
           ]
      },{  
          "name"     : "al-Sitt Ḥadaq",
@@ -590,8 +598,7 @@
          "type"     : "Group2",
          "depends"  : [
                "Narjis",
-               "Daughter 8",
-               "Zawjat Ṭuquzdamur al-Ḥamawī"
+               "Daughter 8"
           ]
      }     
 ] 
