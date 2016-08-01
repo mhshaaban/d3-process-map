@@ -142,7 +142,8 @@
          "type"     : "Group1",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
-               "al-Malik al-Kāmil Shaʿbān"
+               "al-Malik al-Kāmil Shaʿbān",
+               "Āqsunqur al-Nāṣirī"
           ]
      },{  
          "name"     : "Zawjat al-Malik al-Nāsir Muḥammad 3",
@@ -582,8 +583,7 @@
          "name"     : "Āqsunqur al-Nāṣirī",
          "type"     : "Group2",
          "depends"  : [
-               "Zahrāʾ",
-               "Ardū"
+               "Zahrāʾ"
           ]
      },{  
          "name"     : "Aḥmad ibn Tankiz al-Ḥusāmī",
