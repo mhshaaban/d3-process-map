@@ -3,7 +3,7 @@
     "graph" : {
         "linkDistance" : 150,
         "charge"       : -400,
-        "height"       : 800,
+        "height"       : 1000,
         "numColors"    : 12,
         "labelPadding" : {
             "left"   : 3,
@@ -77,7 +77,7 @@
             "type"   : "position",
             "x"      : 0.8,
             "y"      : 0.2,
-            "weight" : 0.7
+            "weight" : 1.5
         }, {
             "has"    : { "type" : "group3" },
             "type"   : "position",
