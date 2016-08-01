@@ -609,7 +609,6 @@
          "type"     : "Group6",
          "depends"  : [
                "Ukht Qawṣūn",
-               "Qawṣūn",
                "Unnamed Father"
           ]
      },{  
@@ -617,7 +616,6 @@
          "type"     : "Group6",
          "depends"  : [
                "Ukht Qawṣūn",
-               "Qawṣūn",
                "Ṣūṣūn"
           ]
      }
