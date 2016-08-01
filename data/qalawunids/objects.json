@@ -142,7 +142,6 @@
          "type"     : "Group1",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
-               "Āqsunqur al-Nāṣirī",
                "al-Malik al-Kāmil Shaʿbān"
           ]
      },{  
@@ -401,9 +400,9 @@
          "name"     : "Bint Ṭuquzdamur al-Ḥamawī 1",
          "type"     : "Group2",
          "depends"  : [
-               "al-Malik al-Manṣūr Abū Bakr",
                "al-Malik al-Ṣāliḥ Ismāʿīl",
-               "al-Malik al-Kāmil Shaʿbān"
+               "al-Malik al-Kāmil Shaʿbān",
+               "al-Malik al-Manṣūr Abū Bakr"
           ]
      },{  
          "name"     : "Bint Jankalī ibn al-Bābā",
