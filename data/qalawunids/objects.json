@@ -93,7 +93,8 @@
          "name"     : "Ukht Qawṣūn",
          "type"     : "Group1",
          "depends"  : [
-               "al-Malik al-Nāṣir Muḥammad"
+               "al-Malik al-Nāṣir Muḥammad",
+               "Qawṣūn"
           ]
      },{  
          "name"     : "Quṭlūmalik",
@@ -538,16 +539,6 @@
                "Daughter 3"
           ]
      },{  
-         "name"     : "Qawṣūn",
-         "type"     : "Group2",
-         "depends"  : [
-               "Daughter 4",
-               "Unnamed Father",
-               "Ukht Qawṣūn",
-               "Ṣūṣūn"
-               
-          ]
-     },{  
          "name"     : "Shaykhū",
          "type"     : "Group2",
          "depends"  : [
@@ -604,6 +595,13 @@
                "Narjis",
                "Daughter 8"
           ]     
+     },{  
+         "name"     : "Qawṣūn",
+         "type"     : "Group6",
+         "depends"  : [
+               "Daughter 4",
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
      },{  
          "name"     : "Ṣūṣūn",
          "type"     : "Group6",
