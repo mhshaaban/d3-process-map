@@ -401,8 +401,7 @@
          "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Ṣāliḥ Ismāʿīl",
-               "al-Malik al-Kāmil Shaʿbān",
-               "al-Malik al-Manṣūr Abū Bakr"
+               "al-Malik al-Kāmil Shaʿbān"
           ]
      },{  
          "name"     : "Bint Jankalī ibn al-Bābā",
@@ -583,8 +582,7 @@
          "name"     : "Āqsunqur al-Nāṣirī",
          "type"     : "Group2",
          "depends"  : [
-               "Zahrāʾ",
-               "Ardū"
+               "Zahrāʾ"
           ]
      },{  
          "name"     : "Aḥmad ibn Tankiz al-Ḥusāmī",
