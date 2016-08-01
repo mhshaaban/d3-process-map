@@ -125,6 +125,12 @@
          "depends"  : [
                "al-Nāṣir Muḥammad"
           ]
+     },,{
+         "name"     : "Quṭlūmalik",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad"
+          ]
      },{
          "name"     : "Ṭughāy",
          "type"     : "Group4",
@@ -147,9 +153,16 @@
           ]
      },{
          "name"     : "Baktamur al-Sāqī",
-         "type"     : "Group4",
+         "type"     : "Group5",
          "depends"  : [
                "Daughter of Baktamur al-Sāqī",
+               "al-Nāṣir Muḥammad"
+          ]
+     },{
+         "name"     : "Qawṣūn",
+         "type"     : "Group5",
+         "depends"  : [
+               "Zawjat al-Nāṣir Muḥammad",
                "al-Nāṣir Muḥammad"
           ]
      }
