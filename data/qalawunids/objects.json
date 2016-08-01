@@ -601,7 +601,7 @@
           ]
      },{
          "name"     : "Tankiz al-Ḥusāmī al-Nāṣirī",
-         "type"     : "Group6"
+         "type"     : "Group6",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad"
                ]
