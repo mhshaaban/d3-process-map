@@ -403,7 +403,8 @@
          "depends"  : [
                "al-Malik al-Manṣūr Abū Bakr",
                "al-Malik al-Ṣāliḥ Ismāʿīl",
-               "al-Malik al-Kāmil Shaʿbān"
+               "al-Malik al-Kāmil Shaʿbān",
+               "Ṭuquzdamur al-Ḥamawī"
           ]
      },{  
          "name"     : "Bint Jankalī ibn al-Bābā",
@@ -509,7 +510,8 @@
          "name"     : "Bint Ṭuquzdamur al-Ḥamawī 2",
          "type"     : "Group2",
          "depends"  : [
-               "Ibrāhīm"
+               "Ibrāhīm",
+               "Ṭuquzdamur al-Ḥamawī"
           ]
      },{  
          "name"     : "Ḥūṭūn Khātūn",
@@ -539,7 +541,10 @@
          "name"     : "Qawṣūn",
          "type"     : "Group2",
          "depends"  : [
-               "Daughter 4"
+               "Daughter 4",
+               "Unnamed Father",
+               "Ukht Qawṣūn",
+               "Ṣūṣūn"
                
           ]
      },{  
@@ -614,76 +619,6 @@
                "Ukht Qawṣūn",
                "Qawṣūn",
                "Ṣūṣūn"
-          ]
-     },{  
-         "name"     : "ʿUmar ibn Arghūn al-Nāṣirī al-Nāʾib",
-         "type"     : "Group7",
-         "depends"  : [
-               "Arghūn al-Nāṣirī al-Nāʾib",
-               "Abū Bakr ibn Arghūn al-Nāṣirī al-Nāʾib"
-          ]
-     },{  
-         "name"     : "Arghūn al-Nāṣirī al-Nāʾib",
-         "type"     : "Group7",
-         "depends"  : [
-               "Abū Bakr ibn Arghūn al-Nāṣirī al-Nāʾib",
-               "ʿUmar ibn Arghūn al-Nāṣirī al-Nāʾib"
-          ]
-     },{  
-         "name"     : "Yalbughā al-ʿUmarī al-Nāṣirī",
-         "type"     : "Group8",
-         "depends"  : [
-               "Ṭūlūbiyya bint ʿAbd Allāh al-Nāṣiriyya"
-          ]
-     },{  
-         "name"     : "Jankalī ibn al-Bābā",
-         "type"     : "Group9",
-         "depends"  : [
-               "Bint Jankalī ibn al-Bābā",
-               "Ḥūṭūn Khātūn"
-               
-          ] 
-     },{  
-         "name"     : "Tankiz al-Ḥusāmī",
-         "type"     : "Group10",
-         "depends"  : [
-               "Quṭlūmalik",
-               "Bint Tankiz al-Ḥusāmī",
-               "Muḥammad ibn Tankiz al-Ḥusāmī",
-               "Aḥmad ibn Tankiz al-Ḥusāmī",
-               "Daughter 1",
-               "Daughter 2"
-               
-          ] 
-     },{  
-         "name"     : "Ṭāyirbughā",
-         "type"     : "Group11",
-         "depends"  : [
-               "Bint Ṭāyirbughā 1",
-               "Bint Ṭāyirbughā 2",
-               "Yaḥyá",
-               "Aḥmad",
-               "Zakariyyā"   
-          ]
-     },{
-         "name"     : "Zawjat Ṭuquzdamur al-Ḥamawī",
-         "type"     : "Group12",
-         "depends"  : [
-               "Bint Ṭuquzdamur al-Ḥamawī 1"  
-          ]
-     },{
-         "name"     : "Baktamur al-Sāqī",
-         "type"     : "Group13",
-         "depends"  : [
-               "Aḥmad ibn Baktamur al-Sāqī",
-               "Bint Baktamur al-Sāqī 1",
-               "Bint Baktamur al-Sāqī 2"
-          ]
-     },{
-         "name"     : "Manklībughā al-Silāḥdār",
-         "type"     : "Group14",
-         "depends"  : [
-               "Ṭulunbāybint Ṭughāy"
           ]
      }
 ]     
