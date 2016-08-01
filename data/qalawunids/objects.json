@@ -152,231 +152,231 @@
           ]
      },{  
          "name"     : "Muẓaffar al-dīn Mūsá",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Ṣāliḥ ʿAlī",
                "Mankabak bint Nughāy"
           ]
      },{  
          "name"     : "Daughter 1",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Ashraf Khalīl",
                "Ardūkīn bint Nughāy"
           ] 
      },{  
          "name"     : "Daughter 2",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Ashraf Khalīl",
                "Ardūkīn bint Nughāy"
           ]
      },{  
          "name"     : "al-Malik al-Manṣūr ʿAlī ",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Ardūkīn bint Nughāy"
           ]
      },{  
          "name"     : "al-Malik al-Muẓaffar",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Ardūkīn bint Nughāy"
           ] 
      },{  
          "name"     : "Son",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Ardūkīn bint Nughāy"
           ]
      },{  
          "name"     : "Ānūk",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Ṭughāy"
           ]
      },{  
          "name"     : "al-Malik al-Ṣāliḥ Ṣāliḥ",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Quṭlūmalik"
           ]
      },{  
          "name"     : "Daughter 1",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Quṭlūmalik"
           ]
      },{  
          "name"     : "al-Malik al-Nāṣir Aḥmad",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Bayāḍ"
           ]
      },{  
          "name"     : "al-Malik al-Manṣūr Abū Bakr",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Narjis"
           ]
      },{  
          "name"     : "Ramaḍān",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Narjis"
           ]
      },{  
          "name"     : "Jamāl al-dīn Yūsuf",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Narjis"
           ]
      },{  
          "name"     : "al-Malik al-Ṣāliḥ Ismāʿīl",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāṣir Muḥammad 1"
           ]
      },{  
          "name"     : "al-Malik al-Kāmil Shaʿbān",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāṣir Muḥammad 1"
           ]
      },{  
          "name"     : "Daughter 2",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāṣir Muḥammad 1"
           ]
      },{  
          "name"     : "Zahrāʾ",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāṣir Muḥammad 1"
           ] 
      },{  
          "name"     : "al-Malik al-Muẓaffar Ḥājjī",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāṣir Muḥammad 2"
           ]
      },{  
          "name"     : "al-Malik al-Nāṣir Ḥasan",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Kudā"
           ]
      },{  
          "name"     : "Tatar al-Ḥijāziyyah",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Kudā"
           ]
      },{  
          "name"     : "Daughter 3",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Kudā"
           ]
      },{  
          "name"     : "al-Malik al-Ashraf Kujuk",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Ardū"
           ]
      },{  
          "name"     : "Ibrāhīm",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ] 
      },{  
          "name"     : "Ḥusayn",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ]
      },{  
          "name"     : "Muḥammad al-Nadīm",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ]
      },{  
          "name"     : "Daughter 4",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ]
      },{  
          "name"     : "Daughter 5",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ]
      },{  
          "name"     : "Daughter 6",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ]
      },{  
          "name"     : "Daughter 7",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ]
      },{  
          "name"     : "Daughter 8",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ]
      },{  
          "name"     : "ʿĀʾisha al-Qurdumiyya",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ] 
      },{  
          "name"     : "Daughter 9",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
           ]
      },{  
          "name"     : "Daughter 10",
-         "type"     : "Group1",
+         "type"     : "Group2",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
                "Zawjat al-Malik al-Nāsir Muḥammad 3"
