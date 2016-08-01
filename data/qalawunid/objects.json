@@ -1,0 +1,67 @@
+[
+    //Baybars & Family
+     {  
+         "name"     : "aẓ-Ẓāhir Baybars",
+         "type"     : "Group1",
+         "depends"  : []
+     },{  
+         "name"     : "al-Malik al-Saʿīd Berke Khān",
+         "type"     : "Group1",
+         "depends"  : [
+               "aẓ-Ẓāhir Baybars",
+               "Khātūn"
+          ]
+    //Qalāwūn & Wives      
+     },{  
+         "name"     : "Qalāwūn",
+         "type"     : "Group0",
+         "depends"  : []
+     },{  
+         "name"     : "Umm al-Ṣāliḥ",
+         "type"     : "Group0",
+         "depends"  : [
+               "Qalāwūn"    
+          ]
+     },{
+         "name"     : "Zawjat Qalāwūn 1",
+         "type"     : "Group0",
+         "depends"  : [
+               "Qalāwūn"
+          ] 
+     },{
+         "name"     : "Ashlūn bint Shaktāy",
+         "type"     : "Group0",
+         "depends"  : [
+               "Qalāwūn"
+          ]      
+    //Qalāwūn's Children 
+     },{  
+         "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
+         "type"     : "Group3",
+         "depends"  : [
+               "Qalāwūn",
+               "Umm al-Ṣālih"
+          ]
+     },{  
+         "name"     : "Khātūn",
+         "type"     : "Group3",
+         "depends"  : [
+               "Qalāwūn",
+               "Umm al-Ṣālih"
+          ]
+     },{  
+         "name"     : "al-Malik al-Ashraf Khalīl",
+         "type"     : "Group3",
+         "depends"  : [
+               "Qalāwūn",
+               "Zawjat Qalāwūn 1"
+          ] 
+     },{  
+         "name"     : "al-Nāṣir Muḥammad",
+         "type"     : "Group3",
+         "depends"  : [
+               "Qalāwūn",
+               "Ashlūn bint Shaktāy"
+          ] 
+     }
+]     
