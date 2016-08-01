@@ -7,7 +7,8 @@
          "name"     : "al-Malik al-Saʿīd Berke Khān",
          "type"     : "Group5",
          "depends"  : [
-               "aẓ-Ẓāhir Baybars"
+               "aẓ-Ẓāhir Baybars",
+               "Khātūn"
           ]
      },{  
          "name"     : "Qalāwūn",
@@ -17,19 +18,23 @@
          "name"     : "Umm al-Ṣāliḥ",
          "type"     : "Group0",
          "depends"  : [
-               "Qalāwūn"    
+               "Qalāwūn",
+               "al-Malik al-Ṣāliḥ ʿAlī",
+               "Khātūn"
           ]
      },{
          "name"     : "Zawjat Qalāwūn 1",
          "type"     : "Group0",
          "depends"  : [
-               "Qalāwūn"
+               "Qalāwūn",
+               "al-Malik al-Ashraf Khalīl"
           ] 
      },{
          "name"     : "Ashlūn bint Shaktāy",
          "type"     : "Group0",
          "depends"  : [
-               "Qalāwūn"
+               "Qalāwūn",
+               "al-Malik al-Nāṣir Muḥammad"
           ] 
      },{  
          "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
