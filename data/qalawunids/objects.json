@@ -1,11 +1,11 @@
 [
      {  
          "name"     : "aẓ-Ẓāhir Baybars",
-         "type"     : "Group1",
+         "type"     : "Group5",
          "depends"  : []
      },{  
          "name"     : "al-Malik al-Saʿīd Berke Khān",
-         "type"     : "Group1",
+         "type"     : "Group5",
          "depends"  : [
                "aẓ-Ẓāhir Baybars",
                "Khātūn"
@@ -16,154 +16,669 @@
          "depends"  : []
      },{  
          "name"     : "Umm al-Ṣāliḥ",
-         "type"     : "Group2",
+         "type"     : "Group0",
          "depends"  : [
                "Qalāwūn"    
           ]
-     },{  
-         "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
-         "type"     : "Group2",
-         "depends"  : [
-               "Qalāwūn",
-               "Umm al-Ṣāliḥ"
-          ]
-     },{  
-         "name"     : "Khātūn",
-         "type"     : "Group2",
-         "depends"  : [
-               "Qalāwūn",
-               "Umm al-Ṣāliḥ"
-          ]
-     },{  
-         "name"     : "Mankabak bint Nughāy",
-         "type"     : "Group2",
-         "depends"  : [
-               "al-Malik al-Ṣāliḥ ʿAlī"   
-          ]
-     },{  
-         "name"     : "Muẓaffar al-dīn Mūsá",
-         "type"     : "Group2",
-         "depends"  : [
-               "al-Malik al-Ṣāliḥ ʿAlī",
-               "Mankabak bint Nughāy"
-          ]
      },{
-         "name"     : "Zawjat Qalāwũn 1",
-         "type"     : "Group3",
+         "name"     : "Zawjat Qalāwūn 1",
+         "type"     : "Group0",
          "depends"  : [
                "Qalāwūn"
-          ] 
-     },{
-         "name"     : "al-Malik al-Ashraf Khalīl",
-         "type"     : "Group3",
-         "depends"  : [
-               "Qalāwūn"
-          ] 
-     },{
-         "name"     : "Ardūkīn bint Nughāy",
-         "type"     : "Group3",
-         "depends"  : [
-               "al-Malik al-Ashraf Khalīl"
-          ] 
-     },{
-         "name"     : "Daughter 1",
-         "type"     : "Group3",
-         "depends"  : [
-               "al-Malik al-Ashraf Khalīl",
-               "Ardūkīn bint Nughāy"
-          ] 
-     },{
-         "name"     : "Daughter 2",
-         "type"     : "Group3",
-         "depends"  : [
-               "al-Malik al-Ashraf Khalīl",
-               "Ardūkīn bint Nughāy"
           ] 
      },{
          "name"     : "Ashlūn bint Shaktāy",
-         "type"     : "Group4",
+         "type"     : "Group0",
          "depends"  : [
                "Qalāwūn"
+          ]      
+     },{  
+         "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
+         "type"     : "Group1",
+         "depends"  : [
+               "Qalāwūn",
+               "Umm al-Ṣālih"
+          ]
+     },{  
+         "name"     : "Khātūn",
+         "type"     : "Group1",
+         "depends"  : [
+               "Qalāwūn",
+               "Umm al-Ṣālih"
+          ]
+     },{  
+         "name"     : "al-Malik al-Ashraf Khalīl",
+         "type"     : "Group1",
+         "depends"  : [
+               "Qalāwūn",
+               "Zawjat Qalāwūn 1"
           ] 
-     },{
-         "name"     : "al-Nāṣir Muḥammad",
-         "type"     : "Group4",
+     },{  
+         "name"     : "al-Malik al-Nāṣir Muḥammad",
+         "type"     : "Group1",
          "depends"  : [
                "Qalāwūn",
                "Ashlūn bint Shaktāy"
-          ]
-     },{
-         "name"     : "al-Malik al-Manṣūr ʿAlī",
-         "type"     : "Group4",
+          ] 
+     },{  
+         "name"     : "Mankabak bint Nughāy",
+         "type"     : "Group1",
          "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Ardūkīn bint Nughāy"
-          ]
-     },{
-         "name"     : "al-Malik al-Muẓaffar",
-         "type"     : "Group4",
+               "al-Malik al-Ṣāliḥ ʿAlī"
+          ] 
+     },{  
+         "name"     : "al-Malik al-Saʿīd Berke Khān",
+         "type"     : "Group1",
          "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Ardūkīn bint Nughāy"
-          ]
-     },{
-         "name"     : "Son",
-         "type"     : "Group4",
+               "Khātūn"
+          ]  
+     },{  
+         "name"     : "Ardūkīn bint Nughāy",
+         "type"     : "Group1",
          "depends"  : [
-               "al-Nāṣir Muḥammad",
-               "Ardūkīn bint Nughāy"
-          ]
-     },{
-         "name"     : "Ṭulunbāybint Ṭughāy",
-         "type"     : "Group4",
+               "al-Malik al-Ashraf Khalīl",
+               "al-Malik al-Nāṣir Muḥammad"
+          ] 
+     },{  
+         "name"     : "Ṭulunbāy bint Ṭughāy",
+         "type"     : "Group1",
          "depends"  : [
-               "al-Nāṣir Muḥammad"
+               "al-Malik al-Nāṣir Muḥammad",
+               "Manklībughā al-Silāḥdār",
+               "Ṣūṣūn",
+               "ʿUmar ibn Arghūn al-Nāṣirī al-Nāʾib"
           ]
-     },{
-         "name"     : "Zawjat al-Nāṣir Muḥammad",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad"
-          ]
-     },{
-         "name"     : "Quṭlūmalik",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad"
-          ]
-     },{
+     },{  
          "name"     : "Ṭughāy",
-         "type"     : "Group4",
+         "type"     : "Group1",
          "depends"  : [
-               "al-Nāṣir Muḥammad"
+               "al-Malik al-Nāṣir Muḥammad"
           ]
-     },{
-         "name"     : "Ānūk",
-         "type"     : "Group4",
+     },{  
+         "name"     : "Ukht Qawṣūn",
+         "type"     : "Group1",
          "depends"  : [
-               "al-Nāṣir Muḥammad",
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Quṭlūmalik",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Zādū",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]      
+     },{  
+         "name"     : "Bayāḍ",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Narjis",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Zawjat al-Malik al-Nāṣir Muḥammad 1",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Zawjat al-Malik al-Nāṣir Muḥammad 2",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Kudā",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ] 
+     },{  
+         "name"     : "Ardū",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "al-Malik al-Kāmil Shaʿbān"
+               "Āqsunqur al-Nāṣirī"
+          ]
+     },{  
+         "name"     : "Zawjat al-Malik al-Nāsir Muḥammad 3",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Muẓaffar al-dīn Mūsá",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Ṣāliḥ ʿAlī",
+               " Mankabak bint Nughāy"
+          ]
+     },{  
+         "name"     : "Daughter 1",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Ashraf Khalīl",
+               "Ardūkīn bint Nughāy"
+          ] 
+     },{  
+         "name"     : "Daughter 2",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Ashraf Khalīl",
+               "Ardūkīn bint Nughāy"
+          ]
+     },{  
+         "name"     : "al-Malik al-Manṣūr ʿAlī ",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Ardūkīn bint Nughāy"
+          ]
+     },{  
+         "name"     : "al-Malik al-Muẓaffar",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Ardūkīn bint Nughāy"
+          ] 
+     },{  
+         "name"     : "Son",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Ardūkīn bint Nughāy"
+          ]
+     },{  
+         "name"     : "Ānūk",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
                "Ṭughāy"
           ]
-     },{
-         "name"     : "Daughter of Baktamur al-Sāqī",
-         "type"     : "Group4",
+     },{  
+         "name"     : "al-Malik al-Ṣāliḥ Ṣāliḥ",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Quṭlūmalik"
+          ]
+     },{  
+         "name"     : "Daughter 1",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Quṭlūmalik"
+          ]
+     },{  
+         "name"     : "al-Malik al-Nāṣir Aḥmad",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Bayāḍ"
+          ]
+     },{  
+         "name"     : "Ramaḍān",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Narjis"
+          ]
+     },{  
+         "name"     : "Jamāl al-dīn Yūsuf",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Narjis"
+          ]
+     },{  
+         "name"     : "al-Malik al-Ṣāliḥ Ismāʿīl",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāṣir Muḥammad 1"
+          ]
+     },{  
+         "name"     : "al-Malik al-Kāmil Shaʿbān",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāṣir Muḥammad 1"
+          ]
+     },{  
+         "name"     : "Daughter 2",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāṣir Muḥammad 1"
+          ]
+     },{  
+         "name"     : "Zahrāʾ",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāṣir Muḥammad 1"
+          ] 
+     },{  
+         "name"     : "al-Malik al-Muẓaffar Ḥājjī",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāṣir Muḥammad 2"
+          ]
+     },{  
+         "name"     : "al-Malik al-Nāṣir Ḥasan",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Kudā"
+          ]
+     },{  
+         "name"     : "Tatar al-Ḥijāziyyah",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Kudā"
+          ]
+     },{  
+         "name"     : "Daughter 3",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Kudā"
+          ]
+     },{  
+         "name"     : "al-Malik al-Ashraf Kujuk",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Ardū"
+          ]
+     },{  
+         "name"     : "Ibrāhīm",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ] 
+     },{  
+         "name"     : "Ḥusayn",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "Muḥammad al-Nadīm",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "Daughter 4",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "Daughter 5",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "Daughter 6",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "Daughter 7",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "Daughter 8",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "ʿĀʾisha al-Qurdumiyya",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ] 
+     },{  
+         "name"     : "Daughter 9",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "Daughter 10",
+         "type"     : "Group1",
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad",
+               "Zawjat al-Malik al-Nāsir Muḥammad 3"
+          ]
+     },{  
+         "name"     : "Bint Baktamur al-Sāqī 1",
+         "type"     : "Group2",
          "depends"  : [
                "Ānūk",
-               "Baktamur al-Sāqī"
+               "al-Malik al-Nāṣir Aḥmad",
+               "al-Malik al-Ṣāliḥ Ismāʿīl",
+               "al-Malik al-Kāmil Shaʿbān"
+          ]
+     },{  
+         "name"     : "Bint Ṭāyirbughā",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Nāṣir Aḥmad"
+          ]
+     },{  
+         "name"     : "Bint Ṭuquzdamur al-Ḥamawī 1",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Manṣūr Abū Bakr",
+               "al-Malik al-Ṣāliḥ Ismāʿīl",
+               "al-Malik al-Kāmil Shaʿbān"
+          ]
+     },{  
+         "name"     : "Bint Jankalī ibn al-Bābā",
+         "type"     : "Group2",
+         "depends"  : [
+               "Jamāl al-dīn Yūsuf"
+          ] 
+     },{  
+         "name"     : "Bint Aḥmad ibn Baktamur al-Sāqī",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Ṣāliḥ Ismāʿīl"
+          ]
+     },{  
+         "name"     : "Ittifāq",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Ṣāliḥ Ismāʿīl",
+               "al-Malik al-Kāmil Shaʿbān",
+               "al-Malik al-Muẓaffar Ḥājjī"
+          ] 
+      },{  
+         "name"     : "Zajat al-Malik al-Ṣāliḥ Ismāʿīl",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Ṣāliḥ Ismāʿīl"
+          ] 
+     },{  
+         "name"     : "Bint Tankiz al-Ḥusāmī",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Kāmil Shaʿbān",
+               "al-Malik al-Muẓaffar Ḥājjī"
+          ]
+     },{  
+         "name"     : "Bint Baktamur al-Sāqī 2",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Kāmil Shaʿbān"
+          ]
+     },{  
+         "name"     : "Unnamed",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Kāmil Shaʿbān"
+          ]
+     },{  
+         "name"     : "Bahādur al-Damurdāshī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 2"
+          ]
+     },{  
+         "name"     : "Bint Tankiz al-Ḥusāmī 2",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Kāmil Shaʿbān",
+               "al-Malik al-Muẓaffar Ḥājjī"
+          ]
+     },{  
+         "name"     : "Kaydā",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Muẓaffar Ḥājjī"
+          ]
+     },{  
+         "name"     : "Ṭūlūbiyya bint ʿAbd Allāh al-Nāṣiriyya",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Nāṣir Ḥasan",
+               "Yalbughā al-ʿUmarī al-Nāṣirī"
+          ]
+     },{  
+         "name"     : "al-Sitt Ḥadaq",
+         "type"     : "Group2",
+         "depends"  : [
+               "al-Malik al-Nāṣir Ḥasan"
+          ]
+     },{  
+         "name"     : "Sayf al-dīn Ṭughāytamur al-ʿUmarī al-Nāṣirī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Tatar al-Ḥijāziyyah"
+          ]
+     },{  
+         "name"     : "Maliktamur al-Ḥijāzī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Tatar al-Ḥijāziyyah"
+          ]
+     },{  
+         "name"     : "Tankizbughā",
+         "type"     : "Group2",
+         "depends"  : [
+               "Tatar al-Ḥijāziyyah"
+          ]
+     },{  
+         "name"     : "Tankizbughā al-Māridānī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 2"
+          ]
+     },{  
+         "name"     : "Bint Ṭuquzdamur al-Ḥamawī 2",
+         "type"     : "Group2",
+         "depends"  : [
+               "Ibrāhīm"
+          ]
+     },{  
+         "name"     : "Ḥūṭūn Khātūn",
+         "type"     : "Group2",
+         "depends"  : [
+               "Ibrāhīm"
+          ]
+     },{  
+         "name"     : "Bint Ṭāyirbugha 2",
+         "type"     : "Group2",
+         "depends"  : [
+               "Ibrāhīm"
+          ]
+     },{  
+         "name"     : "Baraka",
+         "type"     : "Group2",
+         "depends"  : [
+               "Ḥusayn"
+          ]
+     },{  
+         "name"     : "Abū Bakr ibn Arghūn al-Nāṣirī al-Nāʾib",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 3"
+          ]
+     },{  
+         "name"     : "Qawṣūn",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 4"
+               
+          ]
+     },{  
+         "name"     : "Shaykhū",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 4"
+               
+          ]
+     },{  
+         "name"     : "Qumārī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 5"
+          ]
+     },{  
+         "name"     : "Muḥammad ibn Tankiz al-Ḥusāmī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 6"
+          ]
+     },{  
+         "name"     : "Aḥmad ibn Tankiz al-Ḥusāmī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 7"
+          ]
+     },{  
+         "name"     : "Qurdum al-Nāṣirī al-Ḥamawī",
+         "type"     : "Group2",
+         "depends"  : [
+               "ʿĀʾisha al-Qurdumiyya"
+          ]
+     },{  
+         "name"     : "Ṭāz",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 8",
+               "Zahrāʾ"
+          ]
+     },{  
+         "name"     : "Āqsunqur al-Nāṣirī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Zahrāʾ",
+               "Ardū"
+          ]
+     },{  
+         "name"     : "Aḥmad ibn Tankiz al-Ḥusāmī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Daughter 8"
+          ]
+     },{  
+         "name"     : "Ṭuquzdamur al-Ḥamawī",
+         "type"     : "Group2",
+         "depends"  : [
+               "Narjis",
+               "Daughter 8",
+               "Zawjat Ṭuquzdamur al-Ḥamawī"
+          ]
+     },{  
+         "name"     : "Ṣūṣūn",
+         "type"     : "Group6",
+         "depends"  : [
+               "Ukht Qawṣūn",
+               "Qawṣūn",
+               "Unnamed Father"
+          ]
+     },{  
+         "name"     : "Unnamed Father",
+         "type"     : "Group6",
+         "depends"  : [
+               "Ukht Qawṣūn",
+               "Qawṣūn",
+               "Ṣūṣūn"
+          ]
+     },{  
+         "name"     : "ʿUmar ibn Arghūn al-Nāṣirī al-Nāʾib",
+         "type"     : "Group7",
+         "depends"  : [
+               "Arghūn al-Nāṣirī al-Nāʾib",
+               "Abū Bakr ibn Arghūn al-Nāṣirī al-Nāʾib"
+          ]
+     },{  
+         "name"     : "Arghūn al-Nāṣirī al-Nāʾib",
+         "type"     : "Group7",
+         "depends"  : [
+               "Abū Bakr ibn Arghūn al-Nāṣirī al-Nāʾib",
+               "ʿUmar ibn Arghūn al-Nāṣirī al-Nāʾib"
+          ]
+     },{  
+         "name"     : "Yalbughā al-ʿUmarī al-Nāṣirī",
+         "type"     : "Group8",
+         "depends"  : [
+               "Ṭūlūbiyya bint ʿAbd Allāh al-Nāṣiriyya"
+          ]
+     },{  
+         "name"     : "Jankalī ibn al-Bābā",
+         "type"     : "Group9",
+         "depends"  : [
+               "Bint Jankalī ibn al-Bābā",
+               "Ḥūṭūn Khātūn"
+               
+          ] 
+     },{  
+         "name"     : "Tankiz al-Ḥusāmī",
+         "type"     : "Group10",
+         "depends"  : [
+               "Quṭlūmalik",
+               "Bint Tankiz al-Ḥusāmī",
+               "Muḥammad ibn Tankiz al-Ḥusāmī",
+               "Aḥmad ibn Tankiz al-Ḥusāmī",
+               "Daughter 1",
+               "Daughter 2"
+               
+          ] 
+     },{  
+         "name"     : "Ṭāyirbughā",
+         "type"     : "Group11",
+         "depends"  : [
+               "Bint Ṭāyirbughā 1",
+               "Bint Ṭāyirbughā 2",
+               "Yaḥyá",
+               "Aḥmad",
+               "Zakariyyā"   
           ]
      },{
-         "name"     : "Baktamur al-Sāqī",
-         "type"     : "Group5",
+         "name"     : "Zawjat Ṭuquzdamur al-Ḥamawī",
+         "type"     : "Group12",
          "depends"  : [
-               "Daughter of Baktamur al-Sāqī",
-               "al-Nāṣir Muḥammad"
+               "Bint Ṭuquzdamur al-Ḥamawī 1"  
           ]
      },{
-         "name"     : "Qawṣūn",
-         "type"     : "Group5",
+         "name"     : "Baktamur al-Sāqī",
+         "type"     : "Group13",
          "depends"  : [
-               "Zawjat al-Nāṣir Muḥammad",
-               "al-Nāṣir Muḥammad"
+               "Aḥmad ibn Baktamur al-Sāqī",
+               "Bint Baktamur al-Sāqī 1",
+               "Bint Baktamur al-Sāqī 2"
           ]
      }
-]
+] 
