@@ -226,7 +226,8 @@
          "type"     : "Group1",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
-               "Narjis"
+               "Narjis",
+               "Bint Ṭuquzdamur al-Ḥamawī 1"
           ]
      },{  
          "name"     : "Ramaḍān",
@@ -473,8 +474,7 @@
          "name"     : "Ṭūlūbiyya bint ʿAbd Allāh al-Nāṣiriyya",
          "type"     : "Group2",
          "depends"  : [
-               "al-Malik al-Nāṣir Ḥasan",
-               "Yalbughā al-ʿUmarī al-Nāṣirī"
+               "al-Malik al-Nāṣir Ḥasan"
           ]
      },{  
          "name"     : "al-Sitt Ḥadaq",
@@ -599,8 +599,7 @@
          "type"     : "Group2",
          "depends"  : [
                "Narjis",
-               "Daughter 8",
-               "Zawjat Ṭuquzdamur al-Ḥamawī"
+               "Daughter 8"
           ]
      }     
 ] 
