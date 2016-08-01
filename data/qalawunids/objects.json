@@ -126,12 +126,6 @@
                "al-Nāṣir Muḥammad"
           ]
      },{
-         "name"     : "Zawjat al-Nāṣir Muḥammad 3",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammad"
-          ]
-     },{
          "name"     : "Ānūk",
          "type"     : "Group4",
          "depends"  : [
