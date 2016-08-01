@@ -31,7 +31,7 @@
          "depends"  : [
                "Qalāwūn"
           ] 
-     }{  
+     },{  
          "name"     : "al-Malik al-Ṣāliḥ ʿAlī",
          "type"     : "Group1",
          "depends"  : [
