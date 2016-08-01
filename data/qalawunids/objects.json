@@ -126,6 +126,12 @@
                "al-Nāṣir Muḥammad"
           ]
      },{
+         "name"     : "Zawjat al-Nāṣir Muḥammad 3",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammmad"
+          ]
+     },{
          "name"     : "Ānūk",
          "type"     : "Group4",
          "depends"  : [
@@ -146,11 +152,5 @@
                "Daughter of Baktamur al-Sāqī",
                "al-Nāṣir Muḥammad"
           ]
-     },{
-         "name"     : "Zawjat al-Nāṣir Muḥammad 3",
-         "type"     : "Group4",
-         "depends"  : [
-               "al-Nāṣir Muḥammmad"
-          ]
      }
-]     
+]
