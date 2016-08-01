@@ -609,14 +609,14 @@
          "type"     : "Group6",
          "depends"  : [
                "Ukht Qawṣūn
-               "Qawṣūn"",
+               "Qawṣūn",
                "Unnamed Father"
           ]
      },{  
          "name"     : "Unnamed Father",
          "type"     : "Group6",
          "depends"  : [
-               "Ukht Qawṣūn,
+               "Ukht Qawṣūn",
                "Qawṣūn",
                "Ṣūṣūn"
           ]
