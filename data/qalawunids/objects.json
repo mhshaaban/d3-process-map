@@ -146,6 +146,20 @@
                "Daughter of Baktamur al-Sāqī",
                "al-Nāṣir Muḥammad"
           ]
+     },{
+         "name"     : "Zawjat al-Nāṣir Muḥammad 3",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad",
+               "Qawṣūn"
+          ]
+     },{
+         "name"     : "Qawṣun",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad",
+               "Zawjat al-Nāṣir Muḥammad"
+          ]
      }
  
 ]
