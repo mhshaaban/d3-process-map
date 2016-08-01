@@ -81,10 +81,7 @@
          "name"     : "Ṭulunbāy bint Ṭughāy",
          "type"     : "Group1",
          "depends"  : [
-               "al-Malik al-Nāṣir Muḥammad",
-               "Manklībughā al-Silāḥdār",
-               "Ṣūṣūn",
-               "ʿUmar ibn Arghūn al-Nāṣirī al-Nāʾib"
+               "al-Malik al-Nāṣir Muḥammad"
           ]
      },{  
          "name"     : "Ṭughāy",
@@ -144,9 +141,7 @@
          "name"     : "Ardū",
          "type"     : "Group1",
          "depends"  : [
-               "al-Malik al-Nāṣir Muḥammad",
-               "al-Malik al-Kāmil Shaʿbān"
-               "Āqsunqur al-Nāṣirī"
+               "al-Malik al-Nāṣir Muḥammad"
           ]
      },{  
          "name"     : "Zawjat al-Malik al-Nāsir Muḥammad 3",
