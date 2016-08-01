@@ -148,13 +148,13 @@
           ]
      },{
          "name"     : "Zawjat al-Nāṣir Muḥammad 3",
-         "type"     : "Group4",
+         "type"     : "Group5",
          "depends"  : [
                "al-Nāṣir Muḥammmad"
           ]
      },{
-         "name"     : "Qawṣun",
-         "type"     : "Group4",
+         "name"     : "Qawṣūn",
+         "type"     : "Group5",
          "depends"  : [
                "al-Nāṣir Muḥammad",
                "Zawjat al-Nāṣir Muḥammad"
