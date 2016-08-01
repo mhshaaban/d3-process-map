@@ -226,7 +226,8 @@
          "type"     : "Group1",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
-               "Narjis"
+               "Narjis",
+               "Bint Tuquzdamur al-Ḥamawī 1"
           ]
      },{  
          "name"     : "Ramaḍān",
@@ -584,8 +585,7 @@
          "name"     : "Āqsunqur al-Nāṣirī",
          "type"     : "Group2",
          "depends"  : [
-               "Zahrāʾ",
-               "Ardū"
+               "Zahrāʾ""
           ]
      },{  
          "name"     : "Aḥmad ibn Tankiz al-Ḥusāmī",
