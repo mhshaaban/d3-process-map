@@ -120,6 +120,12 @@
                "al-Nāṣir Muḥammad"
           ]
      },{
+         "name"     : "Zawjat al-Nāṣir Muḥammad",
+         "type"     : "Group4",
+         "depends"  : [
+               "al-Nāṣir Muḥammad"
+          ]
+     },{
          "name"     : "Ṭughāy",
          "type"     : "Group4",
          "depends"  : [
