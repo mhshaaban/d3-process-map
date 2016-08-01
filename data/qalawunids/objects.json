@@ -71,12 +71,6 @@
                "al-Malik al-Ṣāliḥ ʿAlī"
           ] 
      },{  
-         "name"     : "al-Malik al-Saʿīd Berke Khān",
-         "type"     : "Group1",
-         "depends"  : [
-               "Khātūn"
-          ]  
-     },{  
          "name"     : "Ardūkīn bint Nughāy",
          "type"     : "Group1",
          "depends"  : [
