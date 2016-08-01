@@ -226,8 +226,7 @@
          "type"     : "Group1",
          "depends"  : [
                "al-Malik al-Nāṣir Muḥammad",
-               "Narjis",
-               "Bint Ṭuquzdamur al-Ḥamawī 1"
+               "Narjis"
           ]
      },{  
          "name"     : "Ramaḍān",
@@ -402,6 +401,7 @@
          "name"     : "Bint Ṭuquzdamur al-Ḥamawī 1",
          "type"     : "Group2",
          "depends"  : [
+               "al-Malik al-Manṣūr Abū Bakr",
                "al-Malik al-Ṣāliḥ Ismāʿīl",
                "al-Malik al-Kāmil Shaʿbān"
           ]
