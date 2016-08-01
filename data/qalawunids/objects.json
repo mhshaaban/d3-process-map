@@ -588,5 +588,19 @@
                "Narjis",
                "Daughter 8"
           ]     
+     },{  
+         "name"     : "Qawṣūn",
+         "type"     : "Group6",
+         "depends"  : [
+               "Daughter 4",
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
+     },{  
+         "name"     : "Ukht Qawṣūn",
+         "type"     : "Group6",
+         "depends"  : [
+               "Qawṣūn",
+               "al-Malik al-Nāṣir Muḥammad"
+          ]
      }
 ]     
