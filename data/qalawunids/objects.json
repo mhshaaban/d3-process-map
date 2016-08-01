@@ -37,14 +37,14 @@
          "type"     : "Group1",
          "depends"  : [
                "Qalāwūn",
-               "Umm al-Ṣālih"
+               "Umm al-Ṣāliḥ"
           ]
      },{  
          "name"     : "Khātūn",
          "type"     : "Group1",
          "depends"  : [
                "Qalāwūn",
-               "Umm al-Ṣālih"
+               "Umm al-Ṣāliḥ"
           ]
      },{  
          "name"     : "al-Malik al-Ashraf Khalīl",
