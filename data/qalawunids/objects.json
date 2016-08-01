@@ -433,11 +433,12 @@
                "al-Malik al-Ṣāliḥ Ismāʿīl"
           ] 
      },{  
-         "name"     : "Bint Tankiz al-Ḥusāmī",
-         "type"     : "Group2",
+         "name"     : "Bint Tankiz al-Ḥusāmī al-Nāṣirị 1",
+         "type"     : "Group6",
          "depends"  : [
                "al-Malik al-Kāmil Shaʿbān",
-               "al-Malik al-Muẓaffar Ḥājjī"
+               "al-Malik al-Muẓaffar Ḥājjī",
+               "Tankiz al-Ḥusāmī al-Nāṣirī"
           ]
      },{  
          "name"     : "Bint Baktamur al-Sāqī 2",
@@ -458,11 +459,12 @@
                "Daughter 2"
           ]
      },{  
-         "name"     : "Bint Tankiz al-Ḥusāmī 2",
-         "type"     : "Group2",
+         "name"     : "Bint Tankiz al-Ḥusāmī al-Nāṣirī 2",
+         "type"     : "Group6",
          "depends"  : [
                "al-Malik al-Kāmil Shaʿbān",
-               "al-Malik al-Muẓaffar Ḥājjī"
+               "al-Malik al-Muẓaffar Ḥājjī",
+               "Tankiz al-Ḥusāmī al-Nāṣirī"
           ]
      },{  
          "name"     : "Kaydā",
@@ -551,16 +553,19 @@
                "Daughter 5"
           ]
      },{  
-         "name"     : "Muḥammad ibn Tankiz al-Ḥusāmī",
-         "type"     : "Group2",
+         "name"     : "Muḥammad ibn Tankiz al-Ḥusāmī al-Nāṣirị",
+         "type"     : "Group6",
          "depends"  : [
-               "Daughter 6"
+               "Daughter 6",
+               "Tankiz al-Ḥusāmī al-Nāṣirī"
           ]
      },{  
-         "name"     : "Aḥmad ibn Tankiz al-Ḥusāmī",
-         "type"     : "Group2",
+         "name"     : "Aḥmad ibn Tankiz al-Ḥusāmī al-Nāṣirī",
+         "type"     : "Group6",
          "depends"  : [
-               "Daughter 7"
+               "Daughter 7",
+               "Daughter 8"
+               "Tankiz al-Ḥusāmī al-Nāṣirī"
           ]
      },{  
          "name"     : "Qurdum al-Nāṣirī al-Ḥamawī",
@@ -582,12 +587,6 @@
                "Zahrāʾ"
           ]
      },{  
-         "name"     : "Aḥmad ibn Tankiz al-Ḥusāmī",
-         "type"     : "Group2",
-         "depends"  : [
-               "Daughter 8"
-          ]
-     },{  
          "name"     : "Ṭuquzdamur al-Ḥamawī",
          "type"     : "Group2",
          "depends"  : [
@@ -600,5 +599,11 @@
          "depends"  : [
                "Daughter 4"
           ]
+     },{
+         "name"     :"Tankiz al-Ḥusāmī al-Nāṣiri,
+         "type"     :"Group6"
+         "depends"  : [
+               "al-Malik al-Nāṣir Muḥammad"
+               ]
      }
 ]     
